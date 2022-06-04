@@ -5,6 +5,7 @@
 .idea/vcs.xml
 .idea/jsLibraryMappings.xml
 
+.idea/*
 # Sensitive or high-churn files:
 .idea/dataSources.ids
 .idea/dataSources.xml
@@ -38,4 +39,4 @@ atlassian-ide-plugin.xml
 com_crashlytics_export_strings.xml
 crashlytics.prope
 
-./target
+./target/*
